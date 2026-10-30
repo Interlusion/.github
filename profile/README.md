@@ -13,7 +13,7 @@ Interlusion is an AI-native technology company from Dortmund. It builds digital 
 
 ## Open source
 
-- **[Erpel](https://github.com/Interlusion/erpel):** ERPNext MCP done right.
+- **[Enterich](https://github.com/Interlusion/enterich):** ERPNext MCP done right.
 
 ## The team
 
